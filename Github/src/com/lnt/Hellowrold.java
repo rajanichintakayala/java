@@ -1,6 +1,6 @@
 package com.lnt;
 
-public class hellowrold {
+public class Hellowrold {
 
 	public static void main(String[] args) {
 		System.out.println("    ");
